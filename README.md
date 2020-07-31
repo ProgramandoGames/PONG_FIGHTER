@@ -1,4 +1,4 @@
-# PONG FIGTER
+# PONG FIGHTER
  
 Esse jogo foi desenvolvido pelo canal "Programando Games". O objetivo principal foi desenvolver uma Inteligência Artificial para a raquete do PONG. Sinta-se livre para baixar e modificar esse projeto, só peço que referêncie o canal e compartilhe o vídeo ;)
 
